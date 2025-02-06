@@ -1,2 +1,2 @@
 # Circuitos-Digitais
-Projeto em vidl
+Projeto em vhdl
